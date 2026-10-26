@@ -1,3 +1,3 @@
 # Hola desde mi archivo README
-## Ahora agragué un cambioi al texto
-##XD
+## Ahora agregué un cambio al texto
+## XD
